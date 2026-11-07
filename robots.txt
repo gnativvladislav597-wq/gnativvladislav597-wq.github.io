@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://gnativvladislav597-wq.github.io/sitemap.xml
